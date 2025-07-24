@@ -1,0 +1,27 @@
+/* ==========================================================================
+   ✅ Tailwind CSS Configuration File
+   Este arquivo importa as camadas essenciais do Tailwind.
+   ========================================================================== */
+
+/* 
+ * 1. BASE
+ * Contém o reset do navegador e estilos base globais.
+ */
+@tailwind base;
+
+/* 
+ * 2. COMPONENTS
+ * Inclui componentes reutilizáveis como botões, cards, formulários, etc.
+ */
+@tailwind components;
+
+/* 
+ * 3. UTILITIES
+ * Contém utilitários de baixo nível (ex: p-4, text-center, bg-blue-500).
+ */
+@tailwind utilities;
+
+/* ==========================================================================
+   Fim do arquivo.
+   Você pode adicionar customizações adicionais abaixo, se necessário.
+   ========================================================================== */
