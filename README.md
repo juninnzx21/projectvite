@@ -14,8 +14,8 @@ Uma aplicação construída com Vue 3, TypeScript e Vite, com interface moderna 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/usuario/nome-do-projeto.git
-
+git clone [https://github.com/usuario/nome-do-projeto.git
+](https://github.com/juninnzx21/projectvite.git)
 # Acesse a pasta do projeto
 cd nome-do-projeto
 
